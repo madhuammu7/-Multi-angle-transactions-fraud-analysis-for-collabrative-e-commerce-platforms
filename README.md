@@ -1,0 +1,2 @@
+# -Multi-angle-transactions-fraud-analysis-for-collabrative-e-commerce-platforms
+  Designed a system to analyze e-commerce transactions from multiple perspectives (user behavior, transaction patterns, device/location data) to detect and prevent fraudulent activities. The project focuses on improving fraud identification accuracy and enhancing security in collaborative online market places patterns
